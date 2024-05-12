@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bhdb-guid-generator/static/css/main.e6c13ad2.css",
+    "main.js": "/bhdb-guid-generator/static/js/main.3639f775.js",
+    "static/js/453.4f8ae617.chunk.js": "/bhdb-guid-generator/static/js/453.4f8ae617.chunk.js",
+    "index.html": "/bhdb-guid-generator/index.html",
+    "main.e6c13ad2.css.map": "/bhdb-guid-generator/static/css/main.e6c13ad2.css.map",
+    "main.3639f775.js.map": "/bhdb-guid-generator/static/js/main.3639f775.js.map",
+    "453.4f8ae617.chunk.js.map": "/bhdb-guid-generator/static/js/453.4f8ae617.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3639f775.js"
+  ]
+}
